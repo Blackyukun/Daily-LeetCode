@@ -15,3 +15,4 @@
 - day04 [Remove Duplicates From Sorted Array](remove-duplicates-from-sorted-array.py)
 - day04 [Remove Element](remove-element.py)
 - day05 [Search Insert Position](search-insert-position.py)
+- day06 [Maximum Subarray](maximum-subarray.py)
