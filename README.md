@@ -16,3 +16,4 @@
 - day04 [Remove Element](remove-element.py)
 - day05 [Search Insert Position](search-insert-position.py)
 - day06 [Maximum Subarray](maximum-subarray.py)
+- day07 [Longest Common Prefix](longest-common-prefix.py)
