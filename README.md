@@ -17,3 +17,4 @@
 - day05 [Search Insert Position](search-insert-position.py)
 - day06 [Maximum Subarray](maximum-subarray.py)
 - day07 [Longest Common Prefix](longest-common-prefix.py)
+- day08 [Maximum Average Subarray I](maximum-average-subarray-I.py)
