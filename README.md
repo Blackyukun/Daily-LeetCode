@@ -18,3 +18,4 @@
 - day06 [Maximum Subarray](maximum-subarray.py)
 - day07 [Longest Common Prefix](longest-common-prefix.py)
 - day08 [Maximum Average Subarray I](maximum-average-subarray-I.py)
+- day09 [Sum of Square Numbers](sum-of-square-numbers.py)
